@@ -1,0 +1,10 @@
+Design=1000
+print(Design)
+print(type(Design))
+x=True
+print(x)
+print(type(x))
+k=1.5
+print(type(k))
+l="Money"
+print(type(l))
