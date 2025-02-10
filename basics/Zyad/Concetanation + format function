@@ -1,0 +1,4 @@
+w =  "my name is " # string 
+x = "zyad tamer mohamed " # string
+age = "i am 13 years old " # integer should be converted to string
+print(f"{w} {x} {age}")
